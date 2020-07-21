@@ -1,1 +1,1 @@
-# Springkafka
+# Springkafka example
